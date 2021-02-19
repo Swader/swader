@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on teaching people how to code on and for [Substrate-based](https://www.youtube.com/watch?v=--7t596sw7E) blockchains
 - 🌱 I’m currently learning Rust, Substrate, VueJS and Deno
 - 📑 My blog is at [Bruno.id](https://bruno.id/) and my [work portfolio is there too](https://bruno.id/current-and-past-work/).
-- 👯 I’m looking to collaborate on [Polkadash](https://github.com/swader/polkadot)
+- 👯 I’m looking to collaborate on [Polkadash](https://github.com/swader/polkadash)
 - 🤔 I’m looking for help with [Dot Leap](https://dotleap.com) tutorials!
 - 💬 Ask me about anything at all!
 - 📫 Say Hi via [swader@hey.com](mailto:swader@hey.com)
