@@ -11,6 +11,7 @@
 
 #### Fun Projects Past and Present
 
+- 🐦🥚[Kanaria](https://kanaria.rmrk.app) - a Kusama-native collection of NFTs that bring functional benefits, conditional rendering, and reactive NFTs to the table
 - 🎨 [RMRK.app](https://rmrk.app) - a way to mint and trade NFTs on Kusama, a blockchain which has no native support for NFTs or smart contracts
 - 💸 [HaveIBeenSold.app](https://haveibeensold.app) - check if your personal data has been sold
 - 🆔 [Nameth.io](https://nameth.io) - buy a `mydomain.dev.eth` subdomain and other subdomains that never expire
