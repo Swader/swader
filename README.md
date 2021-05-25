@@ -1,10 +1,18 @@
 ### Hello visitor!
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=swader&show_icons=true&theme=dark&count_private=true" />
+</a>
+
+- 🌊 I'm from Croatia
+- 🕸 I used to be a web dev and Flash dev
+- ♦ [I used to work on Ethereum 2.0](https://our.status.im/tag/two-point-oh/)
 - 🔭 I’m currently working on teaching people how to code on and for [Substrate-based](https://www.youtube.com/watch?v=--7t596sw7E) blockchains
+- 🖼 I currently run an NFT protocol development team over at [RMRK.app](https://rmrk.app), spearheading NFT development in [Polkadot](https://polkadot.network) and [Kusama](https://kusama.network).
 - 🌱 I’m currently learning Rust, Substrate, VueJS and Deno
 - 📑 My blog is at [Bruno.id](https://bruno.id/) and my [work portfolio is there too](https://bruno.id/current-and-past-work/).
-- 👯 I’m looking to collaborate on [Polkadash](https://github.com/swader/polkadash)
-- 🤔 I’m looking for help with [Dot Leap](https://dotleap.com) tutorials!
+- 👯 I'm looking to collaborate with [Polkadash](https://github.com/swader/polkadash)
+- 🤔 I’m looking for VueJS / blockchain devs to write tutorials for [Dot Leap](https://dotleap.com)!
 - 💬 Ask me about anything at all!
 - 📫 Say Hi via [swader@hey.com](mailto:swader@hey.com)
 - ⚡ Fun fact: I really like gaming and VR gaming in particular, and I use VR as a big part of my [weight-loss routine](https://bruno.id/an-endomorphs-journey-to-health-part-1/)
