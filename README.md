@@ -6,26 +6,35 @@
 
 - 🌊 I'm from Croatia
 - 🕸 I used to be a web dev and Flash dev
+- 😈 I currently work as Developer Relations and Chief Dogfooding Officer at [Polygon](https://polygon.technology).
+- 🕵️‍♀️ I currently lead the development of [Caimeo](https://caimeo.com) (see below)
+- 💸 I currently lead the development of [Otis Finance](https://otis.finance) (see below) 
+- ♦ [I used to work for the Web3 Foundation on Polkadot](https://wiki.polkadot.network)
 - ♦ [I used to work on Ethereum 2.0](https://our.status.im/tag/two-point-oh/)
-- 🔭 I’m currently working on teaching people how to code on and for [Substrate-based](https://www.youtube.com/watch?v=--7t596sw7E) blockchains
-- 🖼 I currently run an NFT protocol development team over at [RMRK.app](https://rmrk.app), spearheading NFT development in [Polkadot](https://polkadot.network) and [Kusama](https://kusama.network).
-- 🌱 I’m currently learning Rust, Substrate, VueJS and Deno
-- 📑 My blog is at [Bruno.id](https://bruno.id/) and my [work portfolio is there too](https://bruno.id/current-and-past-work/).
-- 👯 I'm looking to collaborate with [Polkadash](https://github.com/swader/polkadash)
-- 🤔 I’m looking for VueJS / blockchain devs to write tutorials for [Dot Leap](https://dotleap.com)!
-- 💬 Ask me about anything at all!
-- 📫 Say Hi via [swader@hey.com](mailto:swader@hey.com)
+- 🔭 I used to work on teaching people how to code on and for [Substrate-based](https://www.youtube.com/watch?v=--7t596sw7E) blockchains
+- 🖼 I used to run an NFT protocol development team over at [RMRK.app](https://rmrk.app), spearheading NFT development in [Polkadot](https://polkadot.network) and [Kusama](https://kusama.network).
+- 🌱 I’m currently learning Rust and Deno
+- 📑 My non-maintained blog is at [Bruno.id](https://bruno.id/) and my [work portfolio is there too](https://bruno.id/current-and-past-work/).
+- 💬 [Ask me](https://x.com/bitfalls) about anything at all!
 - ⚡ Fun fact: I really like gaming and VR gaming in particular, and I use VR as a big part of my [weight-loss routine](https://bruno.id/an-endomorphs-journey-to-health-part-1/)
 
 #### Fun Projects Past and Present
 
+- 💨 [Quickie](https://github.com/Swader/quickie) - A starter kit for extremely simple statically hostable frameworkless websites built with Deno.
+- ☕️ [Podded](https://github.com/Swader/podded) - a simple calculator to see how much waste you're creating by using one-off Nespresso pods.
+- 🧸 [Kaito Helper](https://github.com/Swader/kaitohelper) - an extension to help your X engagement by making it easier to interact with [high-yap](https://yaps.kaito.ai) accounts.
+- 💸 [Otis Finance](https://otis.finance) - an OTC desk with vesting built in - allowing OTC trades of large batches of coins without affecting markets, and using built in vesting schedules to slowly release them. Fee share with $CAIMEO holders.
+- 🧮 [Soroban](https://github.com/Swader/soroban) - a calculator to figure out how much it costs to store data on EVM networks
+- 💾 [Caimeo](https://caimeo.com) - an AI engine for running locally runnable but on-chain verifiable simulations with AI Agents that have modular intelligence
 - 🐦🥚[Kanaria](https://kanaria.rmrk.app) - a Kusama-native collection of NFTs that bring functional benefits, conditional rendering, and reactive NFTs to the table
-- 🎨 [RMRK.app](https://rmrk.app) - a way to mint and trade NFTs on Kusama, a blockchain which has no native support for NFTs or smart contracts
+- 🎨 [RMRK.app](https://rmrk.app) - a way to mint and trade NFTs on Kusama, a blockchain which has no native support for NFTs or smart contracts. Evolved into 6 ERC standards, merged and in production, on EVM networks.
 - 💸 [HaveIBeenSold.app](https://haveibeensold.app) - check if your personal data has been sold
 - 🆔 [Nameth.io](https://nameth.io) - buy a `mydomain.dev.eth` subdomain and other subdomains that never expire
-- 👩‍🏫 [Bitfalls.com](https://bitfalls.com) - an Ethereum and Web3 education website
-- 🖥 [DotLeap.com](https://dotleap.com) - a Web3 and Substrate education website
-- ✉ [Dot Leap Newsletter](https://dotleap.substack.com) - The most comprehensive newsletter about Web3's technological progress and ecosystem updates
+- 👩‍🏫 [Bitfalls.com](https://bitfalls.com) - a (rarely updated) Web3 and AI education and consulting website
+
+##### 💀
+- 🖥 [DotLeap.com](https://dotleap.com) (HIATUS) - a Web3 and Substrate education website
+- ✉ [Dot Leap Newsletter](https://dotleap.substack.com) (No longer involved) - The most comprehensive newsletter about Web3's technological progress and ecosystem updates
 - 📆 [Coinevents.io](https://coinevents.io) (HIATUS) - a global searchable calendar and ticketing service of blockchain-related events
 - 💰 [Defi.Academy](https://defi.academy) (HIATUS) - a hands-on in-person crash course into DeFi
 - 💳 [Wallets.Review](https://wallets.review) (HIATUS) - a searchable, sortable, feature-filterable guide through mobile cryptocurrency wallets
